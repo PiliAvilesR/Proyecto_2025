@@ -1,0 +1,14 @@
+# Archivos de entorno
+.env
+.DS_Store
+
+# Carpetas y archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.ipynb_checkpoints/
+
+# Datos grandes o sensibles
+data/*.csv
+data/*.json
+data/*.parquet
